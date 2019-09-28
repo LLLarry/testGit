@@ -5,3 +5,5 @@ aaaaaaaa
 bbbbbbbb
 cccccccc
 
+这是运行 git reflog命令查看索引， 然后 git reset --hard [局部索引]进行返回历史的
+
