@@ -4,6 +4,8 @@ apple第二次2222
 aaaaaaaa
 bbbbbbbb
 cccccccc
+这是otherBranch分支新提交的内容
+这是otherBranch分支添加的内容
 
 这是运行 git reflog命令查看索引， 然后 git reset --hard [局部索引]进行返回历史的
 
